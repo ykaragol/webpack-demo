@@ -4,4 +4,4 @@
 To watch with both Webpack and Node:
 
 - `npx webpack --watch --mode=development`
-- `node --watch-path=dist dist/main.js`
+- `node --watch-path=dist dist/index.js`
