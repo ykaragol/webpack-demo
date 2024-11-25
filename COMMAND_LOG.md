@@ -3,5 +3,5 @@
 
 To watch with both Webpack and Node:
 
-- `npx webpack --watch --mode=development`
-- `node --watch-path=dist dist/index.js`
+- `yarn dev`: _to start webpack_
+- `yarn start`: _to start node server_
