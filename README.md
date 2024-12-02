@@ -1,1 +1,1 @@
-This project is a demo to play with Webpack.
+This project is a demo to play with Webpack Bundler.
